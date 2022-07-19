@@ -95,7 +95,8 @@ $(function() {
                 setTimeout(function() { location.href = "/index.html" }, 1500);
 
 
-            }
+            },
+
 
         });
 
